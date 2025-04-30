@@ -1,4 +1,4 @@
-# MONAD KURU MCP
+# MONAD KINTSU MCP
 
 This project is a Model Context Protocol (MCP) server for interacting with the Kintsu staking contract on the Monad testnet. It allows users to:
 - Check MON balances for a given wallet address.
