@@ -21,8 +21,8 @@ The server is built with TypeScript, Node.js, and the `viem` library for blockch
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jade3157/Mon-kuru-mcp.git
-   cd monad-mcp-staking
+   git clone https://github.com/jade3157/Mon-kintsu-mcp.git
+   cd Mon-kintsu-mcp
    ```
 
 2. **Install Dependencies**:
