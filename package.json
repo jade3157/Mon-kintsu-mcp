@@ -1,0 +1,27 @@
+{
+  "name": "monad-mcp-staking",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "bin": {
+    "monad-mcp-staking": "build/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc && chmod 755 build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "MCP server for interacting with the Kintsu staking contract on Monad testnet",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "typescript": "^5.8.3",
+    "viem": "^2.28.1",
+    "zod": "^3.24.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3"
+  }
+}
